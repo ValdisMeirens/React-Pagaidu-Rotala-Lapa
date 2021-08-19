@@ -1,0 +1,13 @@
+.headerimgcontainer{
+    display: flex;
+    min-height: 8vh;
+    /* height: 20vh; */
+    justify-content: center;
+    
+}
+
+.header-img-container img {
+    max-width: 100%;
+    height: auto;
+  
+  }
